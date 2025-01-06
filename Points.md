@@ -32,3 +32,20 @@
 
  8. Just Create the Cloudinary File for the cloudinary server uploading file into the server of the images & Files.
 
+ 9. Just understand the topic of HTTPS for the backend and frontend part for the server push of the client project.
+
+ 10. where there are differnt types of status code to understand the 404, 101, 102, 103 etc.
+
+ 11. Now create the status code server i.e. controller for the url creation.
+
+ 12. Now, Create the Route for the server Router.
+
+ 13. V1 defines for the version 1.
+
+ 14. app.use("/users", userRoutes);
+
+ 15. ### http://localhost/8000/v1/api/register ### 
+    *** Used for understanding the server url ***
+
+ 16. 
+
